@@ -34,11 +34,11 @@
 #    cars.remove('nexia')
 #print(cars)
 
-talabalar=["qodir","azizbek",'zafar','xamida','sarvar','sherbek']
-baholangan_talabalar={}
-while talabalar:
-    talaba=talabalar.pop()
-    baho=input(f"{talaba.title()}ning bahosini kiriting: ")
-    print(f"{talaba.title()} baholandi")
-    baholangan_talabalar[talaba]=int(baho)
+#talabalar=["qodir","azizbek",'zafar','xamida','sarvar','sherbek']
+#baholangan_talabalar={}
+#while talabalar:
+#    talaba=talabalar.pop()
+#    baho=input(f"{talaba.title()}ning bahosini kiriting: ")
+#    print(f"{talaba.title()} baholandi")
+#    baholangan_talabalar[talaba]=int(baho)
     
